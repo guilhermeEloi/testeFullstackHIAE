@@ -1,5 +1,4 @@
-# Projeto LavaCar
-#### Este é o projeto para gerenciar agendamentos de serviços em um lava-car.
+# LavaCar API
 
 #
 
