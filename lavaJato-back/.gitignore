@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+
+# Output directory
+dist/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Keep environment variables out of version control
+.env
