@@ -16,8 +16,8 @@ COPY . .
 # Compila o projeto React
 RUN npm run build
 
-# Expõe a porta 3000 do contêiner
-EXPOSE 3000
+# Expõe a porta 3001 do contêiner
+EXPOSE 3001
 
 # Comando para iniciar o servidor quando o contêiner for executado
 CMD ["npm", "start"]
