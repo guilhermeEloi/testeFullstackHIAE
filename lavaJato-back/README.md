@@ -17,8 +17,8 @@
 1. Clone o repositório:
 
 ```sh
-   git clone <URL-do-seu-repositório>
-   cd <nome-do-seu-repositório> 
+   git clone <https://github.com/guilhermeEloi/testeFullstackHIAE.git>
+   cd <lavaJato-back> 
  ```
 
 2. Crie um arquivo .env na raiz do projeto e adicione a variável de ambiente:
